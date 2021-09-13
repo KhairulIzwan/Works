@@ -24,11 +24,10 @@
 	3. **Frame Analyzer for DirectX**
 	4. **Frame Analyzer for OpenGL**
 		- analyzing CPU bound graphics applications
-```
 
 ## When to use Intel® Graphics Performance Analyzers or/and Intel® VTune Amplifier
 
-![VTune-or-GPA]()
+![VTune-or-GPA](https://github.com/KhairulIzwan/Works/blob/main/images/VTune-or-GPA.png)
 
 <!--echo "# Works" >> README.md-->
 <!--git init-->
