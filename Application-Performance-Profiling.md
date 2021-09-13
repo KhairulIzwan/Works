@@ -16,16 +16,14 @@
 **Brief Summary**
 1. designed for graphics analysis, providing a fast way to debug, analyze and optimize games and graphics applications
 
-2. 
-```
-Intel® Graphics Performance Analyzers (GPA)
-├── **System Analyzer**
-│   └── live metrics analysis of a remote target
-├── **Platform Analyzer**
-│   └── analyzing CPU bound graphics applications
-├── **Frame Analyzer for DirectX**
-└──  **Frame Analyzer for OpenGL**
-    └── analyzing CPU bound graphics applications
+2. Intel® Graphics Performance Analyzers (GPA)
+	1. **System Analyzer**
+		- live metrics analysis of a remote target
+	2. **Platform Analyzer**
+		- analyzing CPU bound graphics applications
+	3. **Frame Analyzer for DirectX**
+	4. **Frame Analyzer for OpenGL**
+		- analyzing CPU bound graphics applications
 ```
 
 ## When to use Intel® Graphics Performance Analyzers or/and Intel® VTune Amplifier
